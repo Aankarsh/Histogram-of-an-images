@@ -97,13 +97,20 @@ plt.show()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
+<img width="746" height="427" alt="download" src="https://github.com/user-attachments/assets/6ebcd9ab-d5fa-4e80-abf9-35c6437436f4" />
+
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
+<img width="1189" height="490" alt="download" src="https://github.com/user-attachments/assets/9900985a-a4dd-4685-94c5-f05460e4804a" />
+
+<img width="794" height="394" alt="download" src="https://github.com/user-attachments/assets/a0a9ed33-03be-4914-875b-5e05158aaf1d" />
 
 
 
 ### Histogram Equalization of Grayscale Image.
+<img width="1189" height="490" alt="download" src="https://github.com/user-attachments/assets/b21a9612-621b-4425-b301-3ff88e94ad4a" />
+
 
 
 
