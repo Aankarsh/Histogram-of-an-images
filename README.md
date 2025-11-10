@@ -26,8 +26,10 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```python
-# Name : AANKARSH
-# Reg.No.: 212223233001
+## EXP-3-Record-Histogram processing ##
+## Name : AANKARSH ##
+## Reg.No.: 212223233001 ##
+
 import cv2
 import matplotlib.pyplot as plt
 
